@@ -1,0 +1,9 @@
+name: SaveAndReadConfig-Tutorial
+version: ${project.version}
+main: me.zahneins.Zahneins
+api-version: 1.15
+authors: [ZahnEins]
+commands:
+  getitem:
+    description: Get The fucking shit item.
+    usage: /<command>
